@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayilarinToplamiOdevi", "Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListOdevi_2", "LinkedListOdevi_2\LinkedListOdevi_2.csproj", "{48DE63AB-319E-4DDB-A8D6-67EC2B806167}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList2_Odevi", "LinkedList2_Odevi\LinkedList2_Odevi.csproj", "{85C71A11-5108-4BAC-B5D7-5A11B571CDC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiYonluLinkedListYapisi", "IkiYonluLinkedListYapisi\IkiYonluLinkedListYapisi.csproj", "{1FFA438E-72EA-4894-AB72-491BC32B7D5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{48DE63AB-319E-4DDB-A8D6-67EC2B806167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48DE63AB-319E-4DDB-A8D6-67EC2B806167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48DE63AB-319E-4DDB-A8D6-67EC2B806167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C71A11-5108-4BAC-B5D7-5A11B571CDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C71A11-5108-4BAC-B5D7-5A11B571CDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C71A11-5108-4BAC-B5D7-5A11B571CDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C71A11-5108-4BAC-B5D7-5A11B571CDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFA438E-72EA-4894-AB72-491BC32B7D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFA438E-72EA-4894-AB72-491BC32B7D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFA438E-72EA-4894-AB72-491BC32B7D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFA438E-72EA-4894-AB72-491BC32B7D5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
