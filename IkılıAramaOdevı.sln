@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList2_Odevi", "Linked
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiYonluLinkedListYapisi", "IkiYonluLinkedListYapisi\IkiYonluLinkedListYapisi.csproj", "{1FFA438E-72EA-4894-AB72-491BC32B7D5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiKuleleriOdevi", "HanoiKuleleriOdevi\HanoiKuleleriOdevi.csproj", "{E5FBE52D-C1F9-4F98-BF38-20BA4A516FA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1FFA438E-72EA-4894-AB72-491BC32B7D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FFA438E-72EA-4894-AB72-491BC32B7D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FFA438E-72EA-4894-AB72-491BC32B7D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FBE52D-C1F9-4F98-BF38-20BA4A516FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FBE52D-C1F9-4F98-BF38-20BA4A516FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FBE52D-C1F9-4F98-BF38-20BA4A516FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FBE52D-C1F9-4F98-BF38-20BA4A516FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
